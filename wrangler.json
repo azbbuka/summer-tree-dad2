@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "summer-tree-dad2",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "35716938-9d62-4269-9ff1-e14b8c448a8b",
+      "database_name": "flat-dream-2041-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
